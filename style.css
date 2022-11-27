@@ -1,0 +1,316 @@
+body {
+    margin: 0;
+}
+
+.ft {
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(BDflood-woman.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 300px;
+}
+
+.ft h1 {
+    color: #fff;
+    font-size: 65px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ft p {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 50px 40px 50px;
+}
+
+.btn {
+    margin-top: 40px;
+    color: #fff;
+    background-color: #ff5959;
+    padding: 15px 20px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.section-two{
+    padding: 100px;
+}
+.sec {
+    text-align: center;
+}
+
+.sec h3 {
+    font-size: 50px;
+    font-weight: 400;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sec p {
+    font-size: 20px;
+    font-weight: 300;
+    color: grey;
+    padding: 0px 250px;
+}
+
+.sec-parent {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 200px;
+    text-align: center;
+    margin: 50px 0px;
+}
+
+.sec-child {
+    display: block;
+}
+
+.sec-child p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 30px;
+    border: 2px solid;
+    border-color: #fff;
+    color: grey;
+}
+
+.sec-child p:hover {
+    border: 2px solid red;
+    cursor: pointer;
+    background-color: #f7dfdffd;
+    border-color: #ff5959;
+    color: #ff5959;
+    border-radius: 10px;
+}
+
+.child-btn {
+    color: #fff;
+    background-color: #ff5959;
+    padding: 15px 20px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.tec {
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+}
+.tec input{
+    width: 700px;
+    border-style: none;
+    border-bottom: 1px solid grey;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    color: green;
+}
+
+.tecs {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.first {
+    text-align: center;
+    padding: 140px 0px;
+}
+
+.first h2 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.first p {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    color: grey;
+}
+
+.ft-parent {
+    display: flex;
+    justify-content: space-between;
+    padding:0 100px;
+}
+
+.ft-child {
+    justify-content: space-between;
+
+}
+
+.ft-child-1 {
+    background-color: #EDF5F6;
+    padding: 20px;
+    margin: 0 15px;
+}
+
+.ft-child-2 {
+    background-color: #f7e9e9fd;
+    padding: 20px;
+    margin: 0 15px;
+}
+
+.ft-child-3 {
+    background-color: #fff4d6;
+    padding: 20px;
+    margin: 0 15px;
+}
+
+.secound {
+    display: flex;
+    padding: 30px 80px;
+}
+
+.sec-text {
+    width: 50%;
+    padding: 0px 30px;
+}
+.pic{
+    width: 50%;
+}
+
+.sec-text h1 {
+    font-size: 50px;
+    font-weight: 800;
+    font-family: papyrus;
+
+}
+
+.sec-text p {
+    padding-bottom: 20px;
+    color: grey;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sec-pic {
+    width: 600px;
+    padding: 40px;
+    border-radius: 50px;
+}
+
+.sec-btn {
+    color: #fff;
+    background-color: #ff5959;
+    padding: 15px 20px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.thired {
+    display: flex;
+    padding: 150px 0px;
+}
+.thr-pic {
+    width: 70%;
+    height: 100%;
+    margin-left: 90px;
+    border-radius: 20px;
+}
+.section-three{
+    width: 50%;
+    overflow: hidden;
+}
+.thr-text {
+    width: 50%;
+    padding-left: 90px;
+}
+
+.thr-text h1 {
+    font-size: 50px;
+    font-weight: 800;
+    font-family: papyrus;
+}
+
+.thr-text p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+
+.thr-btn {
+    color: #fff;
+    background-color: #ff5959;
+    padding: 15px 20px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+.fourth {
+    text-align: center;
+    padding: 0px 300px;
+    margin-bottom: 100px;
+}
+
+.for-btn {
+    color: #fff;
+    background-color: #ff5959;
+    padding: 8px 14px;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.last .mail {
+    background-color: #d9d9d9;
+    padding: 11px 30px;
+    border: 0;
+}
+
+.fourth h1 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+.fourth p {
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+   
+}
+
+.last {
+    background-color: #fff4d6;
+    padding: 80px 200px;
+    margin: 0px 200px;
+    display: inline-flex;
+    margin: 50px 0px;
+}
+.last input{
+    height: 18px;
+}
+
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+
+footer h1 {
+    color: #ff5959;
+    font-family: lobster;
+    font-size: 30px;
+}
+
+footer p {
+    color: grey;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
