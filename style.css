@@ -1,7 +1,8 @@
 @font-face {
-    font-family: Lobster-Regular;
-    src: url(font/Lobster-Regular.ttf);
-  }
+    font-family: 'Lobster-Regular';
+    src: url(font/Lobster-Regular.ttf) format("woff2");
+}
+  
 body {
     margin: 0;
 }
@@ -185,7 +186,7 @@ body {
 .sec-text h1 {
     font-size: 50px;
     font-weight: 800;
-    font-family: papyrus;
+    font-family: 'papyrus';
 
 }
 
@@ -234,7 +235,7 @@ body {
 .thr-text h1 {
     font-size: 50px;
     font-weight: 800;
-    font-family: papyrus;
+    font-family: 'papyrus';
 }
 
 .thr-text p {
@@ -309,7 +310,7 @@ footer {
 
 footer h1 {
     color: #ff5959;
-    font-family: lobster;
+    font-family: 'lobster-Regular';
     font-size: 30px;
 }
 
