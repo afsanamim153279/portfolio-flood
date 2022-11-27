@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Lobster-Regular;
+    src: url(font/Lobster-Regular.ttf);
+  }
 body {
     margin: 0;
 }
